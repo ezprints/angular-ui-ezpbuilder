@@ -1,0 +1,25 @@
+{
+  "name": "EZP Builder Launcher",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ezprints/angular-ui-ezpbuilder",
+  "authors": [
+    "rkajbaf@cafepress.com"
+  ],
+  "description": "Laucnhes the EZP Builder",
+  "main": "ui.ezpbuilder.js",
+  "keywords": [
+    "ezp",
+    "cafepress",
+    "cp",
+    "builder"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ]
+}
